@@ -1,0 +1,44 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/DENNY/OFFICIAL/Android_Official/Drug_post_Detection/DrugDefender/app/src/main/res/drawable-v24/rounded_corner.xml" value="0.1015" />
+        <entry key="..\:/DENNY/OFFICIAL/Android_Official/Drug_post_Detection/DrugDefender/app/src/main/res/drawable-v24/rounded_upload.xml" value="0.1015" />
+        <entry key="..\:/DENNY/OFFICIAL/Android_Official/Drug_post_Detection/DrugDefender/app/src/main/res/drawable/newstyle.xml" value="0.1015" />
+        <entry key="..\:/DENNY/OFFICIAL/Android_Official/Drug_post_Detection/DrugDefender/app/src/main/res/drawable/rounded_delete.xml" value="0.1" />
+        <entry key="..\:/DENNY/OFFICIAL/Android_Official/Drug_post_Detection/DrugDefender/app/src/main/res/drawable/rounded_register.xml" value="0.101" />
+        <entry key="..\:/DENNY/OFFICIAL/Android_Official/Drug_post_Detection/DrugDefender/app/src/main/res/drawable/rounded_signup.xml" value="0.1015" />
+        <entry key="..\:/DENNY/OFFICIAL/Android_Official/Drug_post_Detection/DrugDefender/app/src/main/res/layout/activity_add_post.xml" value="0.1751412429378531" />
+        <entry key="..\:/DENNY/OFFICIAL/Android_Official/Drug_post_Detection/DrugDefender/app/src/main/res/layout/activity_admin_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/DENNY/OFFICIAL/Android_Official/Drug_post_Detection/DrugDefender/app/src/main/res/layout/activity_admin_view_drug_post.xml" value="0.19010416666666666" />
+        <entry key="..\:/DENNY/OFFICIAL/Android_Official/Drug_post_Detection/DrugDefender/app/src/main/res/layout/activity_get_reports.xml" value="0.20416666666666666" />
+        <entry key="..\:/DENNY/OFFICIAL/Android_Official/Drug_post_Detection/DrugDefender/app/src/main/res/layout/activity_login_page.xml" value="0.20416666666666666" />
+        <entry key="..\:/DENNY/OFFICIAL/Android_Official/Drug_post_Detection/DrugDefender/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/DENNY/OFFICIAL/Android_Official/Drug_post_Detection/DrugDefender/app/src/main/res/layout/activity_my_profile.xml" value="0.20416666666666666" />
+        <entry key="..\:/DENNY/OFFICIAL/Android_Official/Drug_post_Detection/DrugDefender/app/src/main/res/layout/activity_police_home.xml" value="0.19010416666666666" />
+        <entry key="..\:/DENNY/OFFICIAL/Android_Official/Drug_post_Detection/DrugDefender/app/src/main/res/layout/activity_police_view_drug_post.xml" value="0.20416666666666666" />
+        <entry key="..\:/DENNY/OFFICIAL/Android_Official/Drug_post_Detection/DrugDefender/app/src/main/res/layout/activity_user_home.xml" value="0.12239583333333333" />
+        <entry key="..\:/DENNY/OFFICIAL/Android_Official/Drug_post_Detection/DrugDefender/app/src/main/res/layout/activity_user_reg.xml" value="0.20416666666666666" />
+        <entry key="..\:/DENNY/OFFICIAL/Android_Official/Drug_post_Detection/DrugDefender/app/src/main/res/layout/activity_view_my_post.xml" value="0.20416666666666666" />
+        <entry key="..\:/DENNY/OFFICIAL/Android_Official/Drug_post_Detection/DrugDefender/app/src/main/res/layout/activity_view_users.xml" value="0.20416666666666666" />
+        <entry key="..\:/DENNY/OFFICIAL/Android_Official/Drug_post_Detection/DrugDefender/app/src/main/res/layout/admin_drug_post_list.xml" value="0.1" />
+        <entry key="..\:/DENNY/OFFICIAL/Android_Official/Drug_post_Detection/DrugDefender/app/src/main/res/layout/all_post_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/DENNY/OFFICIAL/Android_Official/Drug_post_Detection/DrugDefender/app/src/main/res/layout/drug_post_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/DENNY/OFFICIAL/Android_Official/Drug_post_Detection/DrugDefender/app/src/main/res/layout/my_post_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/DENNY/OFFICIAL/Android_Official/Drug_post_Detection/DrugDefender/app/src/main/res/layout/topbar.xml" value="0.20416666666666666" />
+        <entry key="..\:/DENNY/OFFICIAL/Android_Official/Drug_post_Detection/DrugDefender/app/src/main/res/layout/user_reports_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/DENNY/OFFICIAL/Android_Official/Drug_post_Detection/DrugDefender/app/src/main/res/layout/users_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/DENNY/OFFICIAL/Android_Official/Drug_post_Detection/DrugDefender/app/src/main/res/menu/admin_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/DENNY/OFFICIAL/Android_Official/Drug_post_Detection/DrugDefender/app/src/main/res/menu/menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/DENNY/OFFICIAL/Android_Official/Drug_post_Detection/DrugDefender/app/src/main/res/menu/police_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/DENNY/OFFICIAL/Android_Official/Drug_post_Detection/DrugDefender/app/src/main/res/menu/user_menu.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

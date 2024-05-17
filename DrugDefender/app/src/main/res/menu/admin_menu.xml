@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+<item android:id="@+id/home"
+    android:icon="@drawable/home"
+    android:title="Home" />
+
+<item android:id="@+id/users"
+    android:icon="@drawable/user1"
+    android:title="View Users"/>
+
+
+<item android:id="@+id/viewdrugpost"
+    android:icon="@drawable/view2"
+    android:title="View Drug Posts"/>
+
+
+<item android:id="@+id/logout"
+    android:icon="@drawable/logout"
+    android:title="Log out"/>
+</menu>

@@ -1,0 +1,25 @@
+ <header>
+ 
+    <div class="container-fluid nav-bar p-0">
+        <div class="container-lg p-0">
+            <nav class="navbar navbar-expand-lg bg-secondary navbar-dark">
+                <a href="#" class="navbar-brand">
+                    <h1 class="m-0 text-white display-4"><span class="text-primary">Drug</span>Defender<span class="text-primary"></h1>
+                </a>
+                <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
+                    <div class="navbar-nav ml-auto py-0">
+                        <a href="{% url 'show_home_admin' %}" class="nav-item nav-link active">Home</a>
+                        <a href="{% url 'view_users_admin' %}" class="nav-item nav-link">View Users</a>
+                        <a href="{% url 'view_drug_post_admin' %}" class="nav-item nav-link">Drug Related Posts</a>
+                        
+                        <a href="{% url 'logout'%}" class="nav-item nav-link" style="color:red;">Logout</a>
+                    </div>
+                </div>
+            </nav>
+        </div>
+    </div>
+   
+</header>
